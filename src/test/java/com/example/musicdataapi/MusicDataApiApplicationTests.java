@@ -1,0 +1,13 @@
+package com.example.musicdataapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MusicDataApiApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

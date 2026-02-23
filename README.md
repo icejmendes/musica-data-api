@@ -38,10 +38,9 @@ Ao longo deste projeto, construiremos uma API REST que manterá viva a memória 
 		- apagar album
 
 	- disponibilizar coleção com os testes realizados no postman ou insomnia
-	- testes manuais:
+	- testes manuais (via requisição postman/insomnia):
 		- evidência dos testes realizados
-		- testes unitarios
-
+	- testes unitarios
 	- Implementacao com separacao de camadas (dominio, dao, servico, controle)
 	- Git Flow
 	- Submeter a PR para avaliação
